@@ -1,26 +1,133 @@
-# User Story Template
+**Title:** As a registered student, I want to submit a detailed complaint with category selection and optional media attachments so that campus authorities can review and resolve my issue efficiently.
 
-**Title:**
-As a [type of user], I want [an action] so that [a benefit/value].
-
-**Description:**
-A short paragraph explaining the context of the user story, why it matters, and what problem it solves for the user.
+**Description:** Students frequently encounter infrastructure, facility, or administrative problems on campus that require formal tracking. This user story covers the core submission portal interface, ensuring users can structure their grievances clearly with categorical tags and visual evidence to eliminate ambiguity and speed up resolution times.
 
 **Acceptance Criteria:**
-1. [Condition 1 that must be true for the story to be considered done]
-2. [Condition 2]
-3. [Condition 3]
 
-**Priority:** High / Medium / Low
+* User must be able to select a primary complaint category (e.g., Hostel, IT Lab, Cafeteria, Academic) from a dynamic dropdown list.
+* Form must include a mandatory title field (max 100 characters) and a detailed text description box (max 1000 characters).
+* Users must have the option to attach up to 3 supporting image files (JPEG/PNG format, max 5MB each) as evidence.
+* Upon successful form submission, the system must generate a unique tracking ID, save the complaint with a "Pending" status in MongoDB, and display a confirmation toast message.
 
-**Story Points:** [Estimate, e.g. 1, 2, 3, 5, 8]
+**Priority:** High
 
-**Labels:** new / icebox / backlog / technical debt
+**Story Points:** 8
 
----
+**Labels:** backlog
 
-## Example
 
+**Title:** As a registered student, I want to submit a detailed complaint with category selection and optional media attachments so that campus authorities can review and resolve my issue efficiently.
+
+**Description:** Students frequently encounter infrastructure, facility, or administrative problems on campus that require formal tracking. This user story covers the core submission portal interface, ensuring users can structure their grievances clearly with categorical tags and visual evidence to eliminate ambiguity and speed up resolution times.
+
+**Acceptance Criteria:**
+
+* User must be able to select a primary complaint category (e.g., Hostel, IT Lab, Cafeteria, Academic) from a dynamic dropdown list.
+* Form must include a mandatory title field (max 100 characters) and a detailed text description box (max 1000 characters).
+* Users must have the option to attach up to 3 supporting image files (JPEG/PNG format, max 5MB each) as evidence.
+* Upon successful form submission, the system must generate a unique tracking ID, save the complaint with a "Pending" status in MongoDB, and display a confirmation toast message.
+
+**Priority:** High
+
+**Story Points:** 8
+
+**Labels:** backlog
+**Title:** As a registered student, I want to submit a detailed complaint with category selection and optional media attachments so that campus authorities can review and resolve my issue efficiently.
+
+**Description:** Students frequently encounter infrastructure, facility, or administrative problems on campus that require formal tracking. This user story covers the core submission portal interface, ensuring users can structure their grievances clearly with categorical tags and visual evidence to eliminate ambiguity and speed up resolution times.
+
+**Acceptance Criteria:**
+
+* User must be able to select a primary complaint category (e.g., Hostel, IT Lab, Cafeteria, Academic) from a dynamic dropdown list.
+* Form must include a mandatory title field (max 100 characters) and a detailed text description box (max 1000 characters).
+* Users must have the option to attach up to 3 supporting image files (JPEG/PNG format, max 5MB each) as evidence.
+* Upon successful form submission, the system must generate a unique tracking ID, save the complaint with a "Pending" status in MongoDB, and display a confirmation toast message.
+
+**Priority:** High
+
+**Story Points:** 8
+
+**Labels:** backlog
+**Title:** As a registered student, I want to submit a detailed complaint with category selection and optional media attachments so that campus authorities can review and resolve my issue efficiently.
+
+**Description:** Students frequently encounter infrastructure, facility, or administrative problems on campus that require formal tracking. This user story covers the core submission portal interface, ensuring users can structure their grievances clearly with categorical tags and visual evidence to eliminate ambiguity and speed up resolution times.
+
+**Acceptance Criteria:**
+
+* User must be able to select a primary complaint category (e.g., Hostel, IT Lab, Cafeteria, Academic) from a dynamic dropdown list.
+* Form must include a mandatory title field (max 100 characters) and a detailed text description box (max 1000 characters).
+* Users must have the option to attach up to 3 supporting image files (JPEG/PNG format, max 5MB each) as evidence.
+* Upon successful form submission, the system must generate a unique tracking ID, save the complaint with a "Pending" status in MongoDB, and display a confirmation toast message.
+
+**Priority:** High
+
+**Story Points:** 8
+
+**Labels:** backlog
+**Title:** As a registered student, I want to submit a detailed complaint with category selection and optional media attachments so that campus authorities can review and resolve my issue efficiently.
+
+**Description:** Students frequently encounter infrastructure, facility, or administrative problems on campus that require formal tracking. This user story covers the core submission portal interface, ensuring users can structure their grievances clearly with categorical tags and visual evidence to eliminate ambiguity and speed up resolution times.
+
+**Acceptance Criteria:**
+
+* User must be able to select a primary complaint category (e.g., Hostel, IT Lab, Cafeteria, Academic) from a dynamic dropdown list.
+* Form must include a mandatory title field (max 100 characters) and a detailed text description box (max 1000 characters).
+* Users must have the option to attach up to 3 supporting image files (JPEG/PNG format, max 5MB each) as evidence.
+* Upon successful form submission, the system must generate a unique tracking ID, save the complaint with a "Pending" status in MongoDB, and display a confirmation toast message.
+
+**Priority:** High
+
+**Story Points:** 8
+
+**Labels:** backlog
+**Title:** As a registered student, I want to submit a detailed complaint with category selection and optional media attachments so that campus authorities can review and resolve my issue efficiently.
+
+**Description:** Students frequently encounter infrastructure, facility, or administrative problems on campus that require formal tracking. This user story covers the core submission portal interface, ensuring users can structure their grievances clearly with categorical tags and visual evidence to eliminate ambiguity and speed up resolution times.
+
+**Acceptance Criteria:**
+
+* User must be able to select a primary complaint category (e.g., Hostel, IT Lab, Cafeteria, Academic) from a dynamic dropdown list.
+* Form must include a mandatory title field (max 100 characters) and a detailed text description box (max 1000 characters).
+* Users must have the option to attach up to 3 supporting image files (JPEG/PNG format, max 5MB each) as evidence.
+* Upon successful form submission, the system must generate a unique tracking ID, save the complaint with a "Pending" status in MongoDB, and display a confirmation toast message.
+
+**Priority:** High
+
+**Story Points:** 8
+
+**Labels:** backlog
+**Title:** As a registered student, I want to submit a detailed complaint with category selection and optional media attachments so that campus authorities can review and resolve my issue efficiently.
+
+**Description:** Students frequently encounter infrastructure, facility, or administrative problems on campus that require formal tracking. This user story covers the core submission portal interface, ensuring users can structure their grievances clearly with categorical tags and visual evidence to eliminate ambiguity and speed up resolution times.
+
+**Acceptance Criteria:**
+
+* User must be able to select a primary complaint category (e.g., Hostel, IT Lab, Cafeteria, Academic) from a dynamic dropdown list.
+* Form must include a mandatory title field (max 100 characters) and a detailed text description box (max 1000 characters).
+* Users must have the option to attach up to 3 supporting image files (JPEG/PNG format, max 5MB each) as evidence.
+* Upon successful form submission, the system must generate a unique tracking ID, save the complaint with a "Pending" status in MongoDB, and display a confirmation toast message.
+
+**Priority:** High
+
+**Story Points:** 8
+
+**Labels:** backlog
+**Title:** As a registered student, I want to submit a detailed complaint with category selection and optional media attachments so that campus authorities can review and resolve my issue efficiently.
+
+**Description:** Students frequently encounter infrastructure, facility, or administrative problems on campus that require formal tracking. This user story covers the core submission portal interface, ensuring users can structure their grievances clearly with categorical tags and visual evidence to eliminate ambiguity and speed up resolution times.
+
+**Acceptance Criteria:**
+
+* User must be able to select a primary complaint category (e.g., Hostel, IT Lab, Cafeteria, Academic) from a dynamic dropdown list.
+* Form must include a mandatory title field (max 100 characters) and a detailed text description box (max 1000 characters).
+* Users must have the option to attach up to 3 supporting image files (JPEG/PNG format, max 5MB each) as evidence.
+* Upon successful form submission, the system must generate a unique tracking ID, save the complaint with a "Pending" status in MongoDB, and display a confirmation toast message.
+
+**Priority:** High
+
+**Story Points:** 8
+
+**Labels:** backlog
 **Title:**
 As a shopper, I want to search for gifts by category so that I can quickly find relevant products.
 
