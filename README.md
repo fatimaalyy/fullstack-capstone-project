@@ -110,14 +110,14 @@ curl -X GET https://<your-backend-url>/api/gifts
 
 ## Task 14 — register
 ```bash
-curl -X POST https://<your-backend-url>/api/auth/register \
+curl -X POST https://fullstack-capstone-project-7391.vercel.app/api/auth/register \
   -H "Content-Type: application/json" \
   -d '{"firstName":"Fatima","lastName":"Khan","email":"fatima@example.com","password":"Test1234"}'
 ```
 
 ## Task 15 — login
 ```bash
-curl -X POST https://<your-backend-url>/api/auth/login \
+curl -X POST https://fullstack-capstone-project-7391.vercel.app/api/auth/login \
   -H "Content-Type: application/json" \
   -d '{"email":"fatima@example.com","password":"Test1234"}'
 ```
