@@ -1,0 +1,18 @@
+[
+  {"name": "Scented Candle Set", "category": "Home", "price": 18.99, "description": "A set of 3 hand-poured scented candles.", "image": "candle.jpg"},
+  {"name": "Wireless Earbuds", "category": "Electronics", "price": 49.99, "description": "Compact wireless earbuds with charging case.", "image": "earbuds.jpg"},
+  {"name": "Leather Journal", "category": "Stationery", "price": 15.50, "description": "Handmade leather-bound journal for notes.", "image": "journal.jpg"},
+  {"name": "Ceramic Coffee Mug", "category": "Kitchen", "price": 12.00, "description": "Minimalist ceramic mug, 350ml.", "image": "mug.jpg"},
+  {"name": "Bluetooth Speaker", "category": "Electronics", "price": 35.75, "description": "Portable speaker with rich bass.", "image": "speaker.jpg"},
+  {"name": "Succulent Plant Trio", "category": "Home", "price": 22.00, "description": "Three mini succulents in ceramic pots.", "image": "succulent.jpg"},
+  {"name": "Yoga Mat", "category": "Fitness", "price": 28.99, "description": "Non-slip eco-friendly yoga mat.", "image": "yogamat.jpg"},
+  {"name": "Gourmet Chocolate Box", "category": "Food", "price": 24.50, "description": "Assorted gourmet chocolates, 12 pieces.", "image": "chocolate.jpg"},
+  {"name": "Desk Organizer", "category": "Stationery", "price": 19.99, "description": "Wooden desk organizer with multiple compartments.", "image": "organizer.jpg"},
+  {"name": "Scarf and Gloves Set", "category": "Fashion", "price": 32.00, "description": "Warm knit scarf and gloves set.", "image": "scarf.jpg"},
+  {"name": "Essential Oil Diffuser", "category": "Home", "price": 27.99, "description": "Ultrasonic aroma diffuser with LED light.", "image": "diffuser.jpg"},
+  {"name": "Fitness Tracker Band", "category": "Electronics", "price": 39.99, "description": "Tracks steps, heart rate, and sleep.", "image": "fitband.jpg"},
+  {"name": "Cookbook - World Recipes", "category": "Books", "price": 21.00, "description": "A collection of recipes from around the world.", "image": "cookbook.jpg"},
+  {"name": "Photo Frame Set", "category": "Home", "price": 16.75, "description": "Set of 4 wooden picture frames.", "image": "frame.jpg"},
+  {"name": "Insulated Water Bottle", "category": "Fitness", "price": 20.99, "description": "Keeps drinks cold for 24 hours.", "image": "bottle.jpg"},
+  {"name": "Board Game Classic Pack", "category": "Toys", "price": 29.99, "description": "A pack of 3 classic family board games.", "image": "boardgame.jpg"}
+]
